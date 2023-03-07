@@ -35,11 +35,6 @@ function NavBar() {
         <li><a href=''>Calcul devi</a></li>
         <li><a href=''>Contact</a></li>
       </ul>
-      <Box sx={{ '& button': { ml:"62px" ,mt:"35px" } }}>
-          <Button size="medium" variant="outlined" style={button} onClick={Connexion}>
-            Login
-          </Button>
-     </Box>
      </div>
     </div>
   )
