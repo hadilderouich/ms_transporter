@@ -65,7 +65,7 @@ const navigate = useNavigate();
       <ul>
         <li><a href='/'>Home</a></li>
         <li><a href='#service'>nous service</a></li>
-        <li><a href=''>Calcul devi</a></li>
+        <li><a href='/CalculVolume'>Calcul devi</a></li>
         <li><a href=''>Contact</a></li>
       </ul>
       <Box sx={{ '& button': { ml:"62px" ,mt:"35px" } }}>

@@ -1,5 +1,6 @@
 import React from 'react'
 import { BrowserRouter, Route , Routes } from 'react-router-dom'
+import CalculVolume from './Components/CalculVolume';
 import Hello from './Components/Hello';
 import Inscription from './Components/Inscription'
 import Liste_service from './Components/Liste_service';
@@ -18,6 +19,7 @@ function RoutesConfig() {
           <Route  path="/" element={<Hello/>}/>
           <Route path="/inscri" element={<Inscription/>}/>
           <Route path="/Login" element={<Login/>}/>
+          <Route path="/CalculVolume" element={<CalculVolume/>}/>
           
         </Routes>
       </BrowserRouter>
