@@ -7,7 +7,8 @@ import Liste_service from './Components/Liste_service';
 import Login from './Components/Login'
 import Service_domiciel from './Components/Service_domiciel';
 import Service_entreprise from './Components/Service_entreprise';
-
+import PageFooter from './Components/Footer';
+import ContactPage from './Components/Contect';
 
 function RoutesConfig() {
   return (
@@ -20,8 +21,9 @@ function RoutesConfig() {
           <Route path="/inscri" element={<Inscription/>}/>
           <Route path="/Login" element={<Login/>}/>
           <Route path="/CalculVolume" element={<CalculVolume/>}/>
-          
+          <Route path="/Contact" element={<ContactPage/>}/>
         </Routes>
+        <PageFooter/>
       </BrowserRouter>
     </div>
   )

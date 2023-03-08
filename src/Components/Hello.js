@@ -66,7 +66,7 @@ const navigate = useNavigate();
         <li><a href='/'>Home</a></li>
         <li><a href='#service'>nous service</a></li>
         <li><a href='/CalculVolume'>Calcul devi</a></li>
-        <li><a href=''>Contact</a></li>
+        <li><a href='/Contact'>Contact</a></li>
       </ul>
       <Box sx={{ '& button': { ml:"62px" ,mt:"35px" } }}>
           <Button size="medium" variant="outlined" style={button} onClick={Connexion}>
