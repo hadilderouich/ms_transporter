@@ -116,4 +116,6 @@ Developed by **Hadil Derouich** | **Moutia Ben said**
 
 ## Demo
 
-[Watch the MSTransport Demo](./public/mstransport-demo.mp4)
+<video src="https://github.com/hadilderouich/ms_transporter/raw/refs/heads/master/public/mstransport-demo.mp4" controls width="100%">
+  Your browser does not support the video tag.
+</video>
