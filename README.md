@@ -116,4 +116,4 @@ Developed by **Hadil Derouich** | **Moutia Ben said**
 
 ## Demo
 
-[Watch the MSTransport Demo](./assets/mstransport-demo.mp4)
+[Watch the MSTransport Demo](./public/mstransport-demo.mp4)
